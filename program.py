@@ -1,2 +1,3 @@
 print("Welcome to Hacktoberfest")
-print(print("New line")
+print("New line")
+print(""")
